@@ -90,7 +90,7 @@ SET PSEP=;
 
 @REM Start Java program
 :runm2
-SET CMDLINE=%JAVA_EXE%  %JAVA_OPTS% -cp "%PROG_HOME%\lib\*;"  -Dprog.home="%PROG_HOME%" -Dprog.version="0.1.0-SNAPSHOT" -Dprog.revision="unknown" app.hoefax.computeeigentrust %CMD_LINE_ARGS%
+SET CMDLINE=%JAVA_EXE%  %JAVA_OPTS% -cp "%PROG_HOME%\lib\*;"  -Dprog.home="%PROG_HOME%" -Dprog.version="0.1.0-SNAPSHOT" -Dprog.revision="52c0c1e916910b97d4382e49a62d0549c4c2b1b3" app.hoefax.computeeigentrust %CMD_LINE_ARGS%
 %CMDLINE%
 if ERRORLEVEL 1 goto error
 goto end

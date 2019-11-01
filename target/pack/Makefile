@@ -24,7 +24,7 @@ all:
 	@echo "Run make install"
 
 # program package name
-PROG:=eigentrust
+PROG:=hoefax-eigentrust
 
 # VERSION file will be generated after 'sbt pack'. This file contains 'version' variable
 include VERSION

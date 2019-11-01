@@ -1,8 +1,8 @@
-[0m[[0m[0minfo[0m] [0m[0m[eigentrust] Creating a distributable package in target/pack[0m
-[0m[[0m[0minfo[0m] [0m[0m[eigentrust] Copying libraries to target/pack/lib[0m
-[0m[[0m[0minfo[0m] [0m[0m[eigentrust] project jars:[0m
-[0m[[0m[0minfo[0m] [0m[0mtarget/scala-2.11/eigentrust_2.11-0.1.0-SNAPSHOT.jar[0m
-[0m[[0m[0minfo[0m] [0m[0m[eigentrust] project dependencies:[0m
+[0m[[0m[0minfo[0m] [0m[0m[hoefax-eigentrust] Creating a distributable package in target/pack[0m
+[0m[[0m[0minfo[0m] [0m[0m[hoefax-eigentrust] Copying libraries to target/pack/lib[0m
+[0m[[0m[0minfo[0m] [0m[0m[hoefax-eigentrust] project jars:[0m
+[0m[[0m[0minfo[0m] [0m[0mtarget/scala-2.11/hoefax-eigentrust_2.11-0.1.0-SNAPSHOT.jar[0m
+[0m[[0m[0minfo[0m] [0m[0m[hoefax-eigentrust] project dependencies:[0m
 [0m[[0m[0minfo[0m] [0m[0morg.apache.hadoop:hadoop-yarn-common:2.6.5[0m
 [0m[[0m[0minfo[0m] [0m[0morg.apache.hadoop:hadoop-yarn-common:2.6.5[0m
 [0m[[0m[0minfo[0m] [0m[0morg.apache.parquet:parquet-format:2.4.0[0m
@@ -220,15 +220,16 @@
 [0m[[0m[0minfo[0m] [0m[0morg.typelevel:machinist_2.11:0.6.1[0m
 [0m[[0m[0minfo[0m] [0m[0morg.apache.parquet:parquet-column:1.10.1[0m
 [0m[[0m[0minfo[0m] [0m[0mcom.vlkan:flatbuffers:1.2.0-3f79e055[0m
-[0m[[0m[0minfo[0m] [0m[0m[eigentrust] unmanaged dependencies:[0m
-[0m[[0m[0minfo[0m] [0m[0m/home/stefano/eigentrust/lib/postgresql-42.2.8.jar[0m
-[0m[[0m[0minfo[0m] [0m[0m[eigentrust] explicit dependencies:[0m
-[0m[[0m[0minfo[0m] [0m[0m[eigentrust] Create a bin folder: target/pack/bin[0m
-[0m[[0m[0minfo[0m] [0m[0m[eigentrust] Generating launch scripts[0m
-[0m[[0m[0minfo[0m] [0m[0m[eigentrust] main class for eigentrust: app.hoefax.computeeigentrust[0m
-[0m[[0m[0minfo[0m] [0m[0m[eigentrust] Generating target/pack/bin/eigentrust[0m
-[0m[[0m[0minfo[0m] [0m[0m[eigentrust] Generating target/pack/bin/eigentrust.bat[0m
-[0m[[0m[0minfo[0m] [0m[0m[eigentrust] packed resource directories = /home/stefano/eigentrust/src/pack[0m
-[0m[[0m[0minfo[0m] [0m[0m[eigentrust] Generating target/pack/Makefile[0m
-[0m[[0m[0minfo[0m] [0m[0m[eigentrust] Generating target/pack/VERSION[0m
-[0m[[0m[0minfo[0m] [0m[0m[eigentrust] done.[0m
+[0m[[0m[0minfo[0m] [0m[0m[hoefax-eigentrust] unmanaged dependencies:[0m
+[0m[[0m[0minfo[0m] [0m[0m/home/stefano/eigentrusttest/hoefax-eigentrust/lib/postgresql-42.2.8.jar[0m
+[0m[[0m[0minfo[0m] [0m[0m[hoefax-eigentrust] explicit dependencies:[0m
+[0m[[0m[0minfo[0m] [0m[0m[hoefax-eigentrust] Create a bin folder: target/pack/bin[0m
+[0m[[0m[0minfo[0m] [0m[0m[hoefax-eigentrust] Generating launch scripts[0m
+[0m[[0m[0minfo[0m] [0m[0m[hoefax-eigentrust] Checking the git revision of the current project[0m
+[0m[[0m[0minfo[0m] [0m[0m[hoefax-eigentrust] main class for eigentrust: app.hoefax.computeeigentrust[0m
+[0m[[0m[0minfo[0m] [0m[0m[hoefax-eigentrust] Generating target/pack/bin/eigentrust[0m
+[0m[[0m[0minfo[0m] [0m[0m[hoefax-eigentrust] Generating target/pack/bin/eigentrust.bat[0m
+[0m[[0m[0minfo[0m] [0m[0m[hoefax-eigentrust] packed resource directories = /home/stefano/eigentrusttest/hoefax-eigentrust/src/pack[0m
+[0m[[0m[0minfo[0m] [0m[0m[hoefax-eigentrust] Generating target/pack/Makefile[0m
+[0m[[0m[0minfo[0m] [0m[0m[hoefax-eigentrust] Generating target/pack/VERSION[0m
+[0m[[0m[0minfo[0m] [0m[0m[hoefax-eigentrust] done.[0m
